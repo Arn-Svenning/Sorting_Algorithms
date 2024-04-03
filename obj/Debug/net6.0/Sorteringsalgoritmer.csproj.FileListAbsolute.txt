@@ -1,0 +1,9 @@
+C:\Users\arn\source\repos\Sorteringsalgoritmer\bin\Debug\net6.0\Sorteringsalgoritmer.exe
+C:\Users\arn\source\repos\Sorteringsalgoritmer\obj\Debug\net6.0\Sorteringsalgoritmer.csproj.AssemblyReference.cache
+C:\Users\arn\source\repos\Sorteringsalgoritmer\obj\Debug\net6.0\Sorteringsalgoritmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arn\source\repos\Sorteringsalgoritmer\obj\Debug\net6.0\Sorteringsalgoritmer.AssemblyInfoInputs.cache
+C:\Users\arn\source\repos\Sorteringsalgoritmer\obj\Debug\net6.0\Sorteringsalgoritmer.AssemblyInfo.cs
+C:\Users\arn\source\repos\Sorteringsalgoritmer\obj\Debug\net6.0\Sorteringsalgoritmer.csproj.CoreCompileInputs.cache
+C:\Users\arn\source\repos\Sorteringsalgoritmer\obj\Debug\net6.0\Sorteringsalgoritmer.dll
+C:\Users\arn\source\repos\Sorteringsalgoritmer\obj\Debug\net6.0\refint\Sorteringsalgoritmer.dll
+C:\Users\arn\source\repos\Sorteringsalgoritmer\obj\Debug\net6.0\Sorteringsalgoritmer.pdb
